@@ -1,0 +1,15 @@
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\bin\Debug\net8.0\jørgen_time_020924.exe
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\bin\Debug\net8.0\jørgen_time_020924.deps.json
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\bin\Debug\net8.0\jørgen_time_020924.runtimeconfig.json
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\bin\Debug\net8.0\jørgen_time_020924.dll
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\bin\Debug\net8.0\jørgen_time_020924.pdb
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.AssemblyInfoInputs.cache
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.AssemblyInfo.cs
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.csproj.CoreCompileInputs.cache
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.sourcelink.json
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.dll
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\refint\jørgen_time_020924.dll
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.pdb
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\jørgen_time_020924.genruntimeconfig.cache
+C:\Users\larmi\Desktop\Kodehode Prosjekter\backend_prosjekter\jørgen_time_020924\obj\Debug\net8.0\ref\jørgen_time_020924.dll
