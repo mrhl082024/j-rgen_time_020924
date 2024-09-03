@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jørgen_time_020924")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+139b96c3ba876b7a1e450dcead1ddd425acc732a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d69b8be597b59e09698d1caa781df479da43beb")]
 [assembly: System.Reflection.AssemblyProductAttribute("jørgen_time_020924")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jørgen_time_020924")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

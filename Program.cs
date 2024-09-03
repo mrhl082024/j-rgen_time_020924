@@ -21,8 +21,25 @@ class Program
         // Skriver ut en liten melding + navnet som er gitt til konsollen
         Console.WriteLine("Hei " + navn);
         // char typen, tar en bestemt bokstav
-        char a = 'A';
-        char b = 'B';
-        Console.WriteLine(a + b);
+        // char a = '@';
+        // Console.WriteLine(a);
+        /* vi lager et nytt array med å kalle på firkantparanteser
+            vi tildeler først en type, i dette tilfelle string etterfulgt av []
+            string[] <- string array, int[] <- int(helltall) array
+            og vi "populerer" arrayet ,ed verdier inni i {} klammeparanteser
+        */
+
+
+        string[] myStringArray = { "Hello", "C#", "Array!" };
+        for (int i = 0; i < myStringArray.Length; i = i + 1)
+        {
+            Console.WriteLine(myStringArray[i]);
+        }
+
+
+
+
+
     }
 }
+
